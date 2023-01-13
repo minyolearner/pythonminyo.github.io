@@ -8,6 +8,9 @@ print(names)
 # append a new item.. 
 names.append('Nayeon')
 
+# duplicate allow
+names.append('Nayeon')
+
 print(names)
 
 # its will change order
